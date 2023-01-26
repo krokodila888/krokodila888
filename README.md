@@ -4,15 +4,15 @@
 
 <h3>I’m here for more knowledge and work.</h3>
 
-I’m currently learning more ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) and TypeScript in the moment.
+I’m currently learning more React and TypeScript in the moment.
 
 📈 My frontend skills:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<p height="14">React.Js</p>
-<p height="14" padding=0>Webpack/parcel</p>
-<p height="14">HTML</p>
-<p height="14">CSS</p>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<p font-size="14" padding=0>Webpack/parcel</p>
+<p font-size="14">HTML</p>
+<p font-size="14">CSS</p>
 
 📫 How to reach me:
 <p height="14">Telegram: @e_kurakina888 </p>
