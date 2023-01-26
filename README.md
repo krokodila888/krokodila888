@@ -8,11 +8,11 @@ I’m currently learning more ![React](https://img.shields.io/badge/react-%23202
 
 📈 My frontend skills:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-ReactJs
-Webpack/parcel
-HTML
-Css/
+*![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+*React.Js
+*Webpack/parcel
+*HTML
+*CSS
 
 📫 How to reach me:
 Telegram: @e_kurakina888 
