@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">a junior frontend and react developer 😼</h3>
 
-###### I’m here for more knowledge and work.
+###### [!NOTE] I’m here for more knowledge and work.
 ###### I’m currently learning more React and TypeScript in the moment.
 
 📈 My frontend skills:
