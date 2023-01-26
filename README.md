@@ -19,6 +19,6 @@ I’m currently learning more React and TypeScript in the moment.
 <p height="14">E-mail: ed-kurakina888@yandeх.ru </p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=011B7B&width=435&lines=(no+time+to+customize+it+properly%2C+got+to+work+a+little+more)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=011B7B&width=756&height=60&lines=(no+time+to+customize+it+properly%2C+got+to+work+a+little+more)" alt="Typing SVG" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krokodila888&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
