@@ -9,14 +9,15 @@ I’m currently learning more ![React](https://img.shields.io/badge/react-%23202
 📈 My frontend skills:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-React.Js
-Webpack/parcel
-HTML
-CSS
+<p>React.Js</p>
+<p>Webpack/parcel</p>
+<p>HTML</p>
+<p>CSS</p>
 
 📫 How to reach me:
 <p>Telegram: @e_kurakina888 </p>
 <p>E-mail: ed-kurakina888@yandeх.ru </p>
+
 
 (no time to customize it properly, got to work a little more)
 
