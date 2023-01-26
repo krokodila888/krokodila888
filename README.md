@@ -9,14 +9,14 @@ I’m currently learning more ![React](https://img.shields.io/badge/react-%23202
 📈 My frontend skills:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<p margin=0 padding="0">React.Js</p>
-<p margin=0 padding=0>Webpack/parcel</p>
-<p margin="0">HTML</p>
-<p margin="0">CSS</p>
+<p height="14">React.Js</p>
+<p height="14" padding=0>Webpack/parcel</p>
+<p height="14">HTML</p>
+<p height="14">CSS</p>
 
 📫 How to reach me:
-<p margin="0">Telegram: @e_kurakina888 </p>
-<p margin="0">E-mail: ed-kurakina888@yandeх.ru </p>
+<p height="14">Telegram: @e_kurakina888 </p>
+<p height="14">E-mail: ed-kurakina888@yandeх.ru </p>
 
 
 (no time to customize it properly, got to work a little more)
