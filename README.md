@@ -9,12 +9,12 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-<p height="16" font-size="14">HTML</p>
-<p height="16" font-size="14">CSS</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 📫 How to reach me:
-<p height="14">Telegram: @e_kurakina888 </p>
-<p height="14">E-mail: ed-kurakina888@yandeх.ru </p>
+- Telegram: @e_kurakina888
+- E-mail: ed-kurakina888@yandeх.ru
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=011B7B&width=756&height=60&lines=(no+time+to+customize+it+properly%2C+got+to+work+a+little+more)" alt="Typing SVG" /></a>
