@@ -9,8 +9,8 @@ I’m currently learning more ![React](https://img.shields.io/badge/react-%23202
 📈 My frontend skills:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<p margin="0">React.Js</p>
-<p margin="0">Webpack/parcel</p>
+<p margin=0 padding="0">React.Js</p>
+<p margin=0 padding=0>Webpack/parcel</p>
 <p margin="0">HTML</p>
 <p margin="0">CSS</p>
 
