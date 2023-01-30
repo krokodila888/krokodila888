@@ -1,18 +1,18 @@
-<h1 align="center">Hi there👋 I'm Evgenia, 
+<h1 align="center">Привет 👋 Я Евгения 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">a junior frontend and react developer 😼</h3>
+<h3 align="center">Начинающий веб-разработчик: JavaScript, React, все дела 😼</h3>
 
-###### I’m here for more knowledge and work.
-###### I’m currently learning more React and TypeScript in the moment.
+###### Пока тут в основном учебные работы, но скоро будет поживее.
+###### Продолжаю учить React and TypeScript в моменте.
 
-📈 My frontend skills:
+📈 Что я уже умею:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-📫 How to reach me:
+📫 Контакты:
 - Telegram: @e_kurakina888
 - E-mail: ed-kurakina888@yandeх.ru
 
