@@ -13,7 +13,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 📫 Контакты:
-- Telegram: @e_kurakina888
+- Телеграм: @e_kurakina888
 - E-mail: ed-kurakina888@yandeх.ru
 
 
