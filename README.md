@@ -12,6 +12,17 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+🖥 Примеры:
+- Лаконичная соцсеть для фото с бекендом:
+  деплой (one-for-study.nomoredomains.icu)
+  репозиторий (https://github.com/krokodila888/react-mesto-api-full-gha)
+- странная штука с бекендом, где можно соххранять себе трейлеры понравившихся фильмов (дипломный проект, все по техзаданию):
+  деплой (https://movies-for-study.online/)
+  репозиторий (https://github.com/krokodila888/movies-explorer-frontend)
+- фронтенд приложения космической бургерной (React, Redux, TypeScript)
+  деплой (https://space-burgers.nomoredomains.monster/)
+  репозиторий ([https://github.com/krokodila888/movies-explorer-frontend](https://github.com/krokodila888/react-burger1))
+
 📫 Контакты:
 - Телеграм: @e_kurakina888
 - E-mail: ed-kurakina888@yandeх.ru
